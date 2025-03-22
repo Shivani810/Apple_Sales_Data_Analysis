@@ -274,9 +274,7 @@ SELECT count(distinct(claim_id)) from warranty WHERE Extract(Year from claim_dat
 SELECT * from sales
 SELECT * from stores
 
-We need all the stores names with date on sale_date and quantity sold in one table. We dont need the dat of the stores where a sale didnot take place as it cant be the highest selling store anyways.
-
-SO a inner join is ok
+-- We need all the stores names with date on sale_date and quantity sold in one table. We dont need the dat of the stores where a sale didnot take place as it cant be the highest selling store anyways. So a inner join is ok
 
 STEP 1: Join store and sales data
 
