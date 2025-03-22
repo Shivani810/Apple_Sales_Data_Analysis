@@ -22,7 +22,7 @@ Here’s the shortened and improved version of the "What’s Included" and "Why 
 - **20 Advanced SQL Queries**: Step-by-step solutions for complex queries, enhancing your skills in performance tuning and optimization.
 - **5 Detailed Tables**: Comprehensive datasets with over 1 million rows, including sales, stores, product categories, products, and warranties.
 - **Query Performance Tuning**: Learn to optimize queries for real-world data handling.
-- **Portfolio-Ready Project**: Showcase your SQL expertise through large-scale data analysis.
+- **Analysis using SQL**: Showcasing SQL expertise through large-scale data analysis.
 
 
 ## Database Schema
