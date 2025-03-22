@@ -7,8 +7,8 @@ This project is a guided project, designed by ZeroAnalyst (Link: https://youtu.b
 
 
 ## Entity Relationship Diagram (ERD)
-erd.png
-![ERD](https://github.com/najirh/Apple-Retail-Sales-SQL-Project---Analyzing-Millions-of-Sales-Rows/blob/main/erd.png)
+
+https://github.com/Shivani810/Apple_Sales_Data_Analysis/blob/04014975e8437d445dbe0e810f9fff419a9e485e/erd.png
 
 **Get the guided project/datasets here**: [Get the Project Datasets](https://topmate.io/zero_analyst/1237072)
 
